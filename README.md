@@ -3,6 +3,20 @@
 Native macOS menu bar app for live stock prices and an interactive chart.  
 Built with Swift, SwiftUI, Swift Charts, and AppKit.
 
+## Showcase
+
+# Interacting with chart and timespan:
+<img width="400" height="266" alt="chart_interact" src="https://github.com/user-attachments/assets/3331a9dd-656a-41f8-a907-c729b4dae9e9" />
+
+# Adding ticker:
+<img width="400" height="488" alt="add_ticker" src="https://github.com/user-attachments/assets/8908c900-2db7-40b8-b5e3-37037da0a3fc" />
+
+# Removing ticker:
+<img width="400" height="272" alt="remove_ticker" src="https://github.com/user-attachments/assets/aa3f36ca-edaf-404f-ab0c-229885d40566" />
+
+# Quit app:
+<img width="400" height="270" alt="quit_app" src="https://github.com/user-attachments/assets/109125cd-2fdd-439c-af6c-67b0565c09d8" />
+
 ## Features
 
 - **Menu bar** — selected ticker’s price with a colored **▲/▼** indicator and % change (sparkline in the item)
